@@ -1,0 +1,13 @@
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\bin\Debug\netcoreapp3.1\Desarrollo.exe
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\bin\Debug\netcoreapp3.1\Desarrollo.deps.json
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\bin\Debug\netcoreapp3.1\Desarrollo.runtimeconfig.json
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\bin\Debug\netcoreapp3.1\Desarrollo.runtimeconfig.dev.json
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\bin\Debug\netcoreapp3.1\Desarrollo.dll
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\bin\Debug\netcoreapp3.1\Desarrollo.pdb
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.csprojAssemblyReference.cache
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.AssemblyInfoInputs.cache
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.AssemblyInfo.cs
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.dll
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.pdb
+C:\Users\MS287BT\Desktop\BANTRAB\Desarrollo\obj\Debug\netcoreapp3.1\Desarrollo.genruntimeconfig.cache
